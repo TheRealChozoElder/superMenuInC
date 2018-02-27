@@ -31,7 +31,7 @@ int main()
 // Function Definitions
 void HelloSuper()
 {
-    printf("Hello super program\n");
+    printf("Hello super program in C\n");
     return;
 }
 
