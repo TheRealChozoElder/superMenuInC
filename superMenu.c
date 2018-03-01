@@ -17,10 +17,13 @@
  */
 #include <stdio.h>
 #include "superMenu.h"
+/*!The HelloSuper function does amazing 
+ * things. Like documenting my code with
+ * doxygen style. 
+ */
 // Function Definitions
 void HelloSuper()
 {
     printf("Hello super program in C\n");
     return;
 }
-
